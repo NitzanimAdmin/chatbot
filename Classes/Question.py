@@ -1,9 +1,8 @@
 import pygame
 
-from Button import Button
+from Classes.Button import Button
 from constants import QUESTION_X, \
-    QUESTION_Y, QUESTION_FONT_SIZE, ANSWER_BOX_WIDTH, ANSWER_BOX_HEIGHT, \
-    ANSWER_BOX_X, GAP_X, GAP_Y, QUESTION_WIDTH, \
+    QUESTION_Y, QUESTION_FONT_SIZE, ANSWER_BOX_WIDTH, ANSWER_BOX_X, GAP_X, GAP_Y, QUESTION_WIDTH, \
     ANSWER_FONT_SIZE, USER_ANSWER_X, ANSWER_COLOR, BLACK, BOX_MARGIN
 from helpers import from_text_to_array, screen, center_text, \
     calculate_sentence_height, get_text_rect

@@ -1,7 +1,6 @@
 import pygame
 
-from Button import Button
-from Question import Question
+from Classes.Button import Button
 from constants import WINDOW_WIDTH, WINDOW_HEIGHT,\
     START_OVER_X, START_OVER_Y, START_OVER_WIDTH, START_OVER_HEIGHT, \
     NUM_OF_ANSWERS, END_OF_CHAT_Y

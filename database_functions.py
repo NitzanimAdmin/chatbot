@@ -1,4 +1,4 @@
-from Question import Question
+from Classes.Question import Question
 
 
 def analyze_data():
