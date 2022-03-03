@@ -46,4 +46,5 @@ ANSWER_COLOR = (179, 246, 130)
 
 BLACK = (0, 0, 0)
 BLUE = (0, 0, 255)
+RED = (255, 0, 0)
 BOX_MARGIN = 10
